@@ -1,6 +1,0 @@
-C:\Projects\Learning\CrossOver\bin\Debug\CrossOver.exe.config
-C:\Projects\Learning\CrossOver\bin\Debug\CrossOver.exe
-C:\Projects\Learning\CrossOver\bin\Debug\CrossOver.pdb
-C:\Projects\Learning\CrossOver\obj\Debug\CrossOver.csprojResolveAssemblyReference.cache
-C:\Projects\Learning\CrossOver\obj\Debug\CrossOver.exe
-C:\Projects\Learning\CrossOver\obj\Debug\CrossOver.pdb
