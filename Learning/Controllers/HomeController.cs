@@ -38,12 +38,12 @@ namespace Learning.Controllers
         }
 
 
-        public Task<ActionResult> GetRegionPhoneEmailById(int regionId) {
+        //public Task<ActionResult> GetRegionPhoneEmailById(int regionId) {
 
-            //Make api call here
-            //Generate new REgionPhone (model) and fill data in it and return it to ajax request in response
-            return new RegionPhone() { Phone = "data from api Result", Email = "Email from api result"};
+        //    //Make api call here
+        //    //Generate new REgionPhone (model) and fill data in it and return it to ajax request in response
+        //    //return new RegionPhone() { Phone = "data from api Result", Email = "Email from api result"};
 
-        }
+        //}
     }
 }
